@@ -1,0 +1,3 @@
+cd ~/Desktop/DojoAssignments
+touch DojoAssignmentRepo.txt
+git init
